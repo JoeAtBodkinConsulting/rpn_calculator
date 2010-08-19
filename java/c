@@ -1,0 +1,1 @@
+javac -classpath lib/junit-4.8.2.jar RPNCalculator.java RPNCalculatorTest.java
